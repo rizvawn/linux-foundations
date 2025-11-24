@@ -1,0 +1,2 @@
+This is a vim demo file.
+Learning vim is worth it for remote editing!
