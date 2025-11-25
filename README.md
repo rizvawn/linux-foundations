@@ -1,4 +1,4 @@
-# Tier 0 Foundations: Linux Command Line Mastery
+# Foundations: Linux Command Line Mastery
 
 This repository demonstrates foundational Linux skills through hands-on exercises completed as part of a 6-tier Linux Project.
 
