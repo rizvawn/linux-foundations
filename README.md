@@ -19,4 +19,4 @@ This repository demonstrates foundational Linux skills through hands-on exercise
 
 ## Project Structure
 
-See `exercises/` directory for completed artifacts from each topic.
+The `exercises/` directory contains completed artifacts from each topic.
